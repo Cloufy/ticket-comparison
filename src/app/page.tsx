@@ -41,6 +41,7 @@ export default function HomePage() {
       {/* Hero */}
       <section className="bg-surface border-b border-border">
         <Container className="py-12 sm:py-16 text-center">
+          <p>Impact-Site-Verification: 983f3648-c6eb-42dd-83f1-7db918ee93b5</p>
           <h1 className="text-3xl sm:text-4xl font-bold text-heading tracking-tight mb-3">
             Compare World Cup 2026 Ticket Prices
           </h1>
